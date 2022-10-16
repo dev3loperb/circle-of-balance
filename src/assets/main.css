@@ -47,5 +47,5 @@ rect {
 
 polygon {
   stroke: rgb(4, 92, 63);
-  fill: rgb(123, 106, 238);
+  fill: hsla(160, 100%, 37%, 1);
 }
