@@ -9,6 +9,7 @@
             <input type="range" v-model="stat.value" min="0" max="100" />
             <span>{{stat.value}}</span>
         </div>
+        <pre id="raw">{{ stats }}</pre>
     </div>
 </template>
 
